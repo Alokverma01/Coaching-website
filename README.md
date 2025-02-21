@@ -14,7 +14,7 @@ A modern and responsive course-selling website built using React.js and Tailwind
 - **Frontend:** React.js, Tailwind CSS
 - **State Management:** React Context API
 - **Routing:** React Router
-- **Styling:** TailwindCSs
+- **Styling:** TailwindCss
 ## Installation
 
 1. Clone the repository:
@@ -22,3 +22,8 @@ A modern and responsive course-selling website built using React.js and Tailwind
    ```sh
    git clone https://github.com/Alokverma01/coaching-website.git
    cd coaching-website
+ 2. Run Project:
+
+   ```sh
+   npm install
+   npm run dev
