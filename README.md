@@ -4,8 +4,8 @@ A modern and responsive course-selling website built using React.js and Tailwind
 
 ## Features
 
--     User can enroll in course
--     User can Buy course
+- User can enroll in course
+- User can Buy course
 - 🎨 Fully responsive UI with Tailwind CSS
 - ⚡ Fast and interactive user experience
 
